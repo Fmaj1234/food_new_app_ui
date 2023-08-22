@@ -1,16 +1,9 @@
 # food_new_app_ui
 
-A new Flutter project.
+A preview of the app
 
-## Getting Started
+https://github.com/Fmaj1234/food_new_app_ui/assets/49940296/0ac8a0b7-ffe8-4567-b44d-698ac4df37df
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230822-030449_iphone13blue_portrait](https://github.com/Fmaj1234/food_new_app_ui/assets/49940296/1a1a2968-8cf5-4304-8547-b283de1df761)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230822-030459_iphone13blue_portrait](https://github.com/Fmaj1234/food_new_app_ui/assets/49940296/a427d5c2-9f92-4356-a685-13ac92aaf1bd)
